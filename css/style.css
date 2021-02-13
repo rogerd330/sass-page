@@ -1,0 +1,14 @@
+h1, h2 {
+  color: #72B01D; }
+
+.call-to-action {
+  background-color: #5B1DB0;
+  color: white; }
+
+#main-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  #main-nav li {
+    display: inline-block;
+    padding-right: 20px; }
